@@ -1,0 +1,4 @@
+docxtpl
+openpyxl
+jinja2
+pyqt5
